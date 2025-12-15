@@ -4,7 +4,7 @@ Notebooks of iFLYTEK&amp;GZIST AI Industry-Academia Collaborative College
 
 ## Owner
 
-- Lin Zixian
+- [Lin Zixian](LinZixian/lzx.html)
 
 ## Members
 
